@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\EnemyAttack.cs">
+    <Files>
+      <File FileName="Assets\script\GameOverManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\PlayerHealth.cs" Line="22" Column="24" />
+      <File FileName="Assets\script\EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\EnemyAttack.cs" Line="52" Column="1" />
+      <File FileName="Assets\script\EnemyManager.cs" Line="24" Column="68" />
+      <File FileName="Assets\script\PlayerMotor.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Sam\Documents\Unity project\bomb\Assets\colliderDie.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
